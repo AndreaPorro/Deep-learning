@@ -8,6 +8,8 @@ The project tackles a **9-class food image classification** problem with fewer t
    
 📊 **Slides:** [`Result presentation FDL.pdf`](./Result%20presentation%20FDL.pdf)
 
+💾 **Checkpoints:** [Google Drive folder](https://drive.google.com/drive/folders/1YfQGV-dEGzlLDw21_w0SONf6Ak5CZkid?usp=sharing)
+
 ---
 
 ## 🎯 Project Objectives & Research Questions
@@ -59,7 +61,7 @@ The central question is: **can transfer learning from ImageNet-pretrained networ
 
 * `Project_Cesaratto_Porro.ipynb` — Complete notebook: loading, EDA, cleaning, split, preprocessing, models, comparison, test evaluation, XAI and Gradio interface
 * `FDL_project_Cesaratto_Porro.pdf` — Presentation slides
-
+* **Checkpoints** (not stored here): the 58 saved model files (about 1 GB in total) are hosted on [Google Drive](https://drive.google.com/drive/folders/1YfQGV-dEGzlLDw21_w0SONf6Ak5CZkid?usp=sharing)
 ---
 
 ## ⚠️ Limitations
