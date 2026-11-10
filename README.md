@@ -78,3 +78,4 @@ The central question is: **can transfer learning from ImageNet-pretrained networ
 
 ---
 *Developed by Andrea Porro and Ilaria Cesaratto.*
+
