@@ -5,8 +5,8 @@ This repository contains a group project developed for the **Foundations of Deep
 The project tackles a **9-class food image classification** problem with fewer than 1,000 images and a strong class imbalance, and asks whether transfer learning from ImageNet-pretrained networks can compensate for the lack of data. It covers the full pipeline: data cleaning with leakage prevention, a CNN baseline, three transfer learning backbones, classical ML on deep features, Explainable AI and a live **Gradio** demo.
 
 📓 **Notebook:** [`Project_Cesaratto_Porro.ipynb`](./Project_Cesaratto_Porro.ipynb)
-📊 **Slides:** [`FDL_project_Cesaratto_Porro.pdf`](./Result presentation FDL.pptx)
-🚀 **Live demo:** [Hugging Face Space](https://huggingface.co/spaces/IlariaCesa/food_FDL)
+   
+📊 **Slides:** [`Result presentation FDL.pptx`](./Result%20presentation%20FDL.pptx)
 
 ---
 
